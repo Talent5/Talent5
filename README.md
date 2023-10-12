@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Talent5
-- 👀 I’m interested in leveraging computer science to extract insights, solve complex problems, and drive innovations
-- 🌱 I’m currently learning degree in Data Science at the University of Zimbabwe.
+- 👋 Hello everyone! My name is Talent Mundwa, a dedicated data science student from the University of Zimbabwe. I have a strong foundation in computer science and a passion for turning raw data into meaningful insights.
+- 👀 🔍 Areas of Interest:Machine Learning algorithms and their applications. Data visualization to make complex data more accessible. Natural Language Processing, particularly chatbots and sentiment analysis. Optimization problems and data-driven decision making.
 - 💞️ I’m looking to collaborate on A passionate team or individual working on innovative data science projects. Opportunities to contribute to open-source projects. Mentorship opportunities where I can both learn from experienced professionals and share my knowledge with newcomers.
 - 📫 How to reach me you can email me on talentmundwa5@gmail.com
 
